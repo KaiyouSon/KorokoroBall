@@ -7,7 +7,6 @@ public class PlayerControl : MonoBehaviour
     public float power = 10;
     public Rigidbody rigidbody;
 
-
     // Start is called before the first frame update
     void Start()
     {
